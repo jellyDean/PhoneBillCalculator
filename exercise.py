@@ -3,7 +3,7 @@ import math
 import collections
 
 
-def main():
+def solution():
     """
     Main execution of program that is called when script is ran.
     """
@@ -97,4 +97,4 @@ def main():
 
 if __name__ == "__main__":
     # execute only if run as a script
-    main()
+    solution()
